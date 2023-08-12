@@ -25,7 +25,10 @@ nav{
     align-items:center;
     padding:0px 80px;
     position:fixed;
-    top:0;
+    top:0px;
+    z-index: 5;
+    
+    
 }
 .logo
 {
